@@ -8,5 +8,6 @@ public class DatabaseUtils {
 	public void getDataBaseConnection()
 	{
 		System.out.println(" From database connection ");
+		System.out.println("From database connection 2");
 	}
 }
