@@ -8,5 +8,6 @@ public class Test1 {
 	public void getDataBaseConnection()
 	{
 		System.out.println(" Test ");
+		System.out.println(" Test 2 ");
 
 }}
