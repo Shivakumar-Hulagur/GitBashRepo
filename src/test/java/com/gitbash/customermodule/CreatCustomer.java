@@ -9,4 +9,9 @@ public class CreatCustomer {
 	{
 		System.out.println(" From create Customer Test ");
 	}
+	@Test
+	public void editCustomerTest()
+	{
+		System.out.println(" From edit customer Test");
+	}
 }
