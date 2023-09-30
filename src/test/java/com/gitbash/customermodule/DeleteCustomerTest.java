@@ -2,7 +2,7 @@ package com.gitbash.customermodule;
 
 import org.testng.annotations.Test;
 
-public class DeleteCustomer {
+public class DeleteCustomerTest {
 
 	@Test
 	public void deleteCustomerTest()

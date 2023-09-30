@@ -2,7 +2,7 @@ package com.gitbash.customermodule;
 
 import org.testng.annotations.Test;
 
-public class ModifyCustomer {
+public class ModifyCustomerTest {
 
 	@Test
 	public void modifyCustomerTest()
